@@ -1,8 +1,8 @@
 # Docker container for FileBot
+**FORKED from https://github.com/jlesage/docker-filebot to update Filebot version to 4.8.5.**
 
 This is a Docker container for FileBot.
 
-FORKED from https://github.com/jlesage/docker-filebot to update Filebot version to 4.8.5.
 
 The GUI of the application is accessed through a modern web browser (no installation or configuration needed on client side) or via any VNC client.
 
